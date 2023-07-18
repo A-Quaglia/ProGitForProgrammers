@@ -6,3 +6,4 @@ class Book:
     title: str
     authors: field(default_factory=list)
     publication_date: datetime
+    publication_date: datetime
